@@ -35,5 +35,4 @@ const Sidebar = () => (
     ))}
   </Stack>
 );
-
 export default Sidebar;
